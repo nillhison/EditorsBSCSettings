@@ -1,5 +1,4 @@
 {
-    
 	"editor.fontFamily": "Menlo, MesloLGM Nerd Font",
 	"editor.fontSize": 14,
 	"editor.fontWeight": "500",
@@ -33,7 +32,7 @@
 	"workbench.colorCustomizations": {
 		"editor.background": "#0d1117",
 		"sideBar.background": "#0d1117"
-    }
+	}
     
 	"vsicons.dontShowNewVersionMessage": true,
   
@@ -41,6 +40,5 @@
       
 	"debug.terminal.clearBeforeReusing": true,
 	"debug.console.closeOnEnd": true,
-   
 }
 
