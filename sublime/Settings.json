@@ -1,0 +1,30 @@
+{
+	/* Native applicable settings */
+	"font_options":
+	[
+		"no_bold",
+		"no_italic",
+	],
+	"themed_title_bar": false,
+	"draw_indent_guides": false,
+	"font_size": 11,
+	"line_padding_top": 2,
+	"line_padding_bottom": 2,
+	"hot_exit": false,
+
+	/* User defined -- NILLHISON VS ================== */
+	
+ // [PRE] !! Get at least one of these fonts installed
+	"font_face": "Menlo, MesloLGM Nerd Font",
+
+	// [PRE] !! Move the "CSH" (Color Schemes) folder into the "Packages/User/" sublime directory
+	"color_scheme": "Packages/User/CSH/@Yuba-Modified.tmTheme",
+
+	// [PRE] !! Install "DAneo Theme" */
+	"theme": "DAneo Sodish.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	
+}

@@ -1,0 +1,14 @@
+[
+  // Targeting the last compiler versions avaliable
+  
+    {
+        "args": [
+            "/std:c++20",
+            "/std:c17"
+        ]
+    },
+    {
+        "cStandard": "c17",
+        "cppStandard": "c++20"
+    }
+]
