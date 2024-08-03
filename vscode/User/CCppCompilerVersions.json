@@ -1,6 +1,4 @@
 [
-  // Targeting the last compiler versions avaliable
-  
     {
         "args": [
             "/std:c++20",
