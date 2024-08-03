@@ -1,41 +1,41 @@
 {
     
 	"editor.fontFamily": "Menlo, MesloLGM Nerd Font",
-    "editor.fontSize": 14,
-    "editor.fontWeight": "500",
-    "editor.tabSize": 2,
-    "editor.multiCursorModifier": "ctrlCmd",
-    "editor.snippetSuggestions": "top",
-    "editor.renderLineHighlight": "none",
-    "editor.suggestSelection": "first",
-    "editor.fontLigatures": false,
-    "editor.detectIndentation": false,
-    "editor.guides.indentation": false,
-    "editor.formatOnPaste": true,
+	"editor.fontSize": 14,
+	"editor.fontWeight": "500",
+	"editor.tabSize": 2,
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.snippetSuggestions": "top",
+	"editor.renderLineHighlight": "none",
+	"editor.suggestSelection": "first",
+	"editor.fontLigatures": false,
+	"editor.detectIndentation": false,
+	"editor.guides.indentation": false,
+	"editor.formatOnPaste": true,
 
-    "window.restoreWindows": "none",
-    "window.openFoldersInNewWindow": "on",
+	"window.restoreWindows": "none",
+	"window.openFoldersInNewWindow": "on",
     
-    "terminal.integrated.fontWeight": "normal",
+	"terminal.integrated.fontWeight": "normal",
 	"terminal.integrated.tabs.enabled": true,
 	"terminal.integrated.fontFamily": "Menlo, MesloLGM Nerd Font",
 	"terminal.integrated.lineHeight": 1.1,
 	"terminal.integrated.fontSize": 14,
 	"terminal.external.windowsExec": "C:\\Windows\\System32\\cmd.exe",
     
-    "extensions.ignoreRecommendations": true,
+	"extensions.ignoreRecommendations": true,
     
-    "explorer.confirmDelete": false,
+	"explorer.confirmDelete": false,
     
-    "workbench.editor.empty.hint": "hidden",
-    "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "One Dark Pro Darker",
-    "workbench.colorCustomizations": {
-        "editor.background": "#0d1117",
-        "sideBar.background": "#0d1117"
+	"workbench.editor.empty.hint": "hidden",
+	"workbench.iconTheme": "vscode-icons",
+	"workbench.colorTheme": "One Dark Pro Darker",
+	"workbench.colorCustomizations": {
+		"editor.background": "#0d1117",
+		"sideBar.background": "#0d1117"
     }
     
-    "vsicons.dontShowNewVersionMessage": true,
+	"vsicons.dontShowNewVersionMessage": true,
   
 	"security.workspace.trust.untrustedFiles": "open",
       
